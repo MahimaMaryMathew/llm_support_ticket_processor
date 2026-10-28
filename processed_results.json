@@ -1,0 +1,42 @@
+[
+    {
+        "id": "TICK-001",
+        "customer": "Elon ",
+        "original_message": "I was charged $49.99 twice for my monthly subscription this month! Please refund the extra charge immediately.",
+        "category": "Billing",
+        "urgency": "High",
+        "suggested_action": "Verify the duplicate transaction in the billing system and process a refund for the extra charge."
+    },
+    {
+        "id": "TICK-002",
+        "customer": "Jensen",
+        "original_message": "Every time I click the 'Export to PDF' button on the dashboard, the page goes completely blank and throws a 500 internal server error.",
+        "category": "Technical",
+        "urgency": "High",
+        "suggested_action": "Escalate to the engineering team to investigate the server-side error logs associated with the PDF export functionality."
+    },
+    {
+        "id": "TICK-003",
+        "customer": "Sam",
+        "original_message": "Hi, I love the platform! Could you tell me if you support integration with Notion workspaces yet?",
+        "category": "General",
+        "urgency": "Low",
+        "suggested_action": "Confirm current integration status with Notion and provide relevant documentation or roadmap information."
+    },
+    {
+        "id": "TICK-004",
+        "customer": "Andrej",
+        "original_message": "URGENT! Our entire team cannot log into the application since 9 AM this morning. Our production release is blocked!",
+        "category": "Technical",
+        "urgency": "Critical",
+        "suggested_action": "Escalate to the engineering team immediately to investigate the authentication service outage."
+    },
+    {
+        "id": "TICK-005",
+        "customer": "Jeff",
+        "original_message": "How do I update the credit card on file? I can't find the billing settings page anywhere.",
+        "category": "Billing",
+        "urgency": "Medium",
+        "suggested_action": "Provide the user with a direct link to the billing settings page and step-by-step instructions on how to update their payment method."
+    }
+]
