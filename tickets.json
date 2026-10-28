@@ -1,0 +1,27 @@
+[
+  {
+    "id": "TICK-001",
+    "customer": "Elon ",
+    "message": "I was charged $49.99 twice for my monthly subscription this month! Please refund the extra charge immediately."
+  },
+  {
+    "id": "TICK-002",
+    "customer": "Jensen",
+    "message": "Every time I click the 'Export to PDF' button on the dashboard, the page goes completely blank and throws a 500 internal server error."
+  },
+  {
+    "id": "TICK-003",
+    "customer": "Sam",
+    "message": "Hi, I love the platform! Could you tell me if you support integration with Notion workspaces yet?"
+  },
+  {
+    "id": "TICK-004",
+    "customer": "Andrej" ,
+    "message": "URGENT! Our entire team cannot log into the application since 9 AM this morning. Our production release is blocked!"
+  },
+  {
+    "id": "TICK-005",
+    "customer": "Jeff",
+    "message": "How do I update the credit card on file? I can't find the billing settings page anywhere."
+  }
+]

@@ -1,0 +1,12 @@
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Output results
+processed_results.json
+
+# Virtual environment directory (if named venv)
+venv/
